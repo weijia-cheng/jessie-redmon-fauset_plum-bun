@@ -1271,7 +1271,7 @@ away. The interne stepped back into the hospital raging about these damn
 white women and their nigger servants. Such women ought to be placed in
 a psycho-pathic ward and the niggers burned.
 
-\*
+---
 
 The girls got Mrs. Murray into the Morris chair and ran upstairs for
 pillows and wraps. When they returned Junius was in the chair and Mrs.
@@ -2534,7 +2534,7 @@ gewgaws of a leisurely and irresponsible existence she would sacrifice
 her own talent, the integrity of her ability to interpret life, to write
 down a history with her brush.
 
-\*
+---
 
 Martha Burden was as strong and as pronounced a personage as Paulette;
 even stronger perhaps because she had the great gift of silence.
@@ -3565,7 +3565,7 @@ was too late for him to come in, but they sat in the car in the dark
 security of Jayne Street and she let him take her in his arms and kiss
 her again and again. For the first time she returned his kisses.
 
-\*
+---
 
 Weary but triumphant she mounted the stairs almost stumbling from a
 sudden, overwhelming fatigue. She had been under a strain! But it was
@@ -4757,7 +4757,7 @@ But Roger said rather shortly that there was nothing to tell. “Just a
 good-hearted, high-spirited kid, that’s all, who lets the whole world
 know her feelings.”
 
-\*
+---
 
 According to Paulette there was more than this to be told about Miss
 Parks. “I don’t know her myself, not being a member of that crowd. But
@@ -6265,7 +6265,7 @@ darling.”
 
 They clung for a moment in the cool, dim depths of the wide hall.
 
-\*
+---
 
 Angela could have danced in the street. As it was she walked gaily down
 Seventh Avenue to 110th Street and into the bosky reaches of the park.
@@ -7533,7 +7533,7 @@ endure. And she saw them as a people powerfully, almost overwhelmingly
 endowed with the essence of life. They had to persist, had to survive
 because they did not know how to die.
 
-\*
+---
 
 Not because she felt like it, but because some day she must begin once
 more to take up the motions of life, she moved on the third day from her
@@ -9341,7 +9341,7 @@ the nature of things she could offer only vaguely.
 Within those six months she lost forever the blind optimism of youth.
 She did not write Anthony nor did she hear from him.
 
-\*
+---
 
 Christmas Eve day dawned or rather drifted greyly into the beholder’s
 perception out of the black mistiness of the murky night. In spite of
