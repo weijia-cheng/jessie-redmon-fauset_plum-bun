@@ -45,7 +45,8 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A light-skinned African-American woman passes as white when she launches her artistic career in New York City.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>Angela and Virginia Murray are sisters, brought up an African-American family in Philadelphia. Unlike Virginia, Angela has inherited the light skin of her mother Mattie, giving her the opportunity to “pass” as white in public settings. Shortly after the Murray sisters reach adulthood, both of their parents die, leaving their house to their children. Hoping to further her artistic career, Angela decides to sell her stake in the house to Virginia and move to New York City, where she can pass as a white woman in her day-to-day life. Changing her name to “Angèle Mory,” Angela becomes entangled in a series of romances while creating a rift with her sister through her self-centered behavior.</p> 
+			<p><i>Plum Bun</i>, <a href="https://standardebooks.org/ebooks/jessie-redmon-fauset">Jessie Redmon Fauset’s</a> second novel, explores the tensions between racial identity and individual ambition, especially as they relate to gender and social class. Published a year before <a href="https://standardebooks.org/ebooks/nella-larsen">Nella Larsen’s</a> novella “<a href="https://standardebooks.org/ebooks/nella-larsen/short-fiction">Passing</a>,” <i>Plum Bun</i> was one of the first works of literature to explore “passing” from a female perspective.</p>
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/jessie-fauset-plum-bun-1928-full-text</dc:source>
